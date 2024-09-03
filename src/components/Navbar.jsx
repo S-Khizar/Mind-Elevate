@@ -142,7 +142,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex-shrink-0 text-white text-lg max-w-[150px]">
           <a href="/">
-            <img src="/logo.png" alt="logo" className="w-full h-auto" />
+            <img src="/nav.png" alt="logo" className="w-full h-auto" />
           </a>
         </div>
 
