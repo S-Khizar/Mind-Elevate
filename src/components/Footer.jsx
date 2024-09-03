@@ -1,5 +1,5 @@
 import React from 'react'
-import footerlogo from '../assets/logo.png'
+import footerlogo from '../assets/footer-logo.png'
 import { FaEnvelope, FaFacebookF, FaInstagram, FaLinkedin, FaMapMarkedAlt, FaPhoneAlt} from 'react-icons/fa'
 import { FaTwitter } from 'react-icons/fa6'
 
